@@ -2,6 +2,10 @@
     margin-top: 5px;
 }
 
+.date_range_filter .datetimeshortcuts {
+    color: transparent!important;
+}
+
 .date_range_filter .datetimeshortcuts a:first-child {
     display: none;
 }
